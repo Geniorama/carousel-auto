@@ -5,6 +5,10 @@
 	margin-top: 5em;
 }
 
+.carrusel .item-carrusel{
+	padding: 1em;
+}
+
 .carrusel .item-carrusel:nth-child(3){
 	-webkit-animation: itemTres 8s;
 	-o-animation: itemTres 8s;
