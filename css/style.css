@@ -14,6 +14,7 @@
 	-o-animation: itemTres 8s;
 	animation: itemTres 8s;
 	animation-iteration-count: 1;
+	animation-timing-function: cubic-bezier(1.0, 0.1, 0.1, 1.0);
 }
 
 
@@ -24,6 +25,7 @@
 	-o-animation: itemDos 8s;
 	animation: itemDos 8s;
 	animation-iteration-count: 1;
+	animation-timing-function: cubic-bezier(1.0, 0.1, 0.1, 1.0);
 }
 
 .carrusel .item-carrusel:nth-child(1){
@@ -31,6 +33,7 @@
 	-o-animation: itemUno 8s;
 	animation: itemUno 8s;
 	animation-iteration-count: 1;
+	animation-timing-function: cubic-bezier(1.0, 0.1, 0.1, 1.0);
 }
 
 @keyframes itemTres{
